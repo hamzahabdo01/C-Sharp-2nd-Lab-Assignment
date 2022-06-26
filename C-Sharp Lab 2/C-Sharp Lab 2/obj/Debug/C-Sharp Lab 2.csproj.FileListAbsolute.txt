@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\GitHub\C-Sharp-Second\C-Sharp Lab 2\C-Sharp Lab 2\bin\Debug\C-Sharp Lab 2.exe.config
+C:\Users\ASUS\Documents\GitHub\C-Sharp-Second\C-Sharp Lab 2\C-Sharp Lab 2\bin\Debug\C-Sharp Lab 2.exe
+C:\Users\ASUS\Documents\GitHub\C-Sharp-Second\C-Sharp Lab 2\C-Sharp Lab 2\bin\Debug\C-Sharp Lab 2.pdb
+C:\Users\ASUS\Documents\GitHub\C-Sharp-Second\C-Sharp Lab 2\C-Sharp Lab 2\obj\Debug\C-Sharp Lab 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\C-Sharp-Second\C-Sharp Lab 2\C-Sharp Lab 2\obj\Debug\C-Sharp Lab 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\GitHub\C-Sharp-Second\C-Sharp Lab 2\C-Sharp Lab 2\obj\Debug\C-Sharp Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\C-Sharp-Second\C-Sharp Lab 2\C-Sharp Lab 2\obj\Debug\C-Sharp Lab 2.exe
+C:\Users\ASUS\Documents\GitHub\C-Sharp-Second\C-Sharp Lab 2\C-Sharp Lab 2\obj\Debug\C-Sharp Lab 2.pdb
